@@ -1,8 +1,8 @@
 <h3>Hi there</h3>
-<h6>Im Thanuja. an undergraduate in software engineering</h6>
-<h6>I’m passionate about front-end development with React, TypeScript, and JavaScript. I enjoy creating intuitive web apps and learning new tech.</h6>
-<h6>When I’m not coding, you’ll find me watching football or F1, and diving into UI/UX design.</h6>
-<h6>Lets Connect!</h6>
+<h4>Im Thanuja. an undergraduate in software engineering</h4>
+<h4>I’m passionate about front-end development with React, TypeScript, and JavaScript, but I also have experience working with C++, Java, and SQL. I enjoy creating intuitive web apps, learning new technologies, and contributing to university projects.</h4>
+<h4>When I’m not coding, you’ll find me watching football or F1, and diving into UI/UX design.</h4>
+<h4>Lets Connect!</h4>
 <h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
