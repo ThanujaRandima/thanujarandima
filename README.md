@@ -19,9 +19,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanujaRandima" alt="ThanujaRandima" />
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThanujaRandima/ThanujaRandima/output/github-snake-dark.svg" />
